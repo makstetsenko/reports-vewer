@@ -1,0 +1,6 @@
+pydantic
+pandas
+black
+jupyter
+ipykernel
+rapidfuzz
